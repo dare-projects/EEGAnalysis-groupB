@@ -14,6 +14,6 @@ R code containing the procedure of the feature extraction and the creation of th
 
 Csv dataset produced by the R script: every row contains the time window, mean, standard deviation, hurst exponent and sample entropy of the raw signal.
 
-### Data Visualization (clustering.py)
+### Data Analysis and Visualization (clustering.py)
 
 Python script that performs a K-Means clustering to the dataset and produces plots to visualize results.
