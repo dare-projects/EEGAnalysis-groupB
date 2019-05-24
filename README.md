@@ -4,7 +4,7 @@ This is the solution proposed by Group B to the EEG Analysis case study given in
 
 ### Raw Dataset (chb05_12.edf, chb05_13s.edf, chb05_14.edf)
 
-These files contains EEG signals of a single patient in three different hours. You can find more details at https://physionet.org/pn6/chbmit/ .
+These files contains EEG signals of a single patient in three different hours. You can download them at https://physionet.org/pn6/chbmit/ .
 
 ### Data Preparation (feature_extracion.R)
 
